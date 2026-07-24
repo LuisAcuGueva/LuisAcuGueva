@@ -122,7 +122,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:acuna.guevara.luis.edgardo@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a target="_blank" href="https://www.luisacuna.dev">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-<a target="_blank" href="https://www.linkedin.com/in/luis-acuna-guevara">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a target="_blank" href="https://www.instagram.com/luisacunaguevara">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a target="_blank" href="https://www.facebook.com/luisacunaguevara">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.luisacuna.dev">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/luis-acuna-guevara">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/luisacunaguevara">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/luisacunaguevara">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
