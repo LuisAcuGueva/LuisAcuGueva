@@ -116,10 +116,6 @@
     <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=LuisAcuGueva&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisAcuGueva&theme=blue-navy&background=0D1117" alt="GitHub Streak" />
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:acuna.guevara.luis.edgardo@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
